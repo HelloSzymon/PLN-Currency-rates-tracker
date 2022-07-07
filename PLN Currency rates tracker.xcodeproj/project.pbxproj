@@ -15,6 +15,7 @@
 		15C4384E2877751A000F386F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 15C4384C2877751A000F386F /* LaunchScreen.storyboard */; };
 		15C4385628777546000F386F /* CurrencyData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15C4385528777546000F386F /* CurrencyData.swift */; };
 		15C4385828777563000F386F /* ExchangeRates.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15C4385728777563000F386F /* ExchangeRates.swift */; };
+		15C4385A28777A40000F386F /* PLNTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15C4385928777A40000F386F /* PLNTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		15C4384F2877751A000F386F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		15C4385528777546000F386F /* CurrencyData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrencyData.swift; sourceTree = "<group>"; };
 		15C4385728777563000F386F /* ExchangeRates.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExchangeRates.swift; sourceTree = "<group>"; };
+		15C4385928777A40000F386F /* PLNTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PLNTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				15C4384128777516000F386F /* AppDelegate.swift */,
 				15C4384328777516000F386F /* SceneDelegate.swift */,
 				15C4384528777516000F386F /* ViewController.swift */,
+				15C4385928777A40000F386F /* PLNTableViewCell.swift */,
 				15C4385528777546000F386F /* CurrencyData.swift */,
 				15C4385728777563000F386F /* ExchangeRates.swift */,
 				15C4384728777516000F386F /* Main.storyboard */,
@@ -148,6 +151,7 @@
 				15C4384228777516000F386F /* AppDelegate.swift in Sources */,
 				15C4385628777546000F386F /* CurrencyData.swift in Sources */,
 				15C4385828777563000F386F /* ExchangeRates.swift in Sources */,
+				15C4385A28777A40000F386F /* PLNTableViewCell.swift in Sources */,
 				15C4384428777516000F386F /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
