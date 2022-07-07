@@ -13,6 +13,8 @@
 		15C4384928777516000F386F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 15C4384728777516000F386F /* Main.storyboard */; };
 		15C4384B2877751A000F386F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 15C4384A2877751A000F386F /* Assets.xcassets */; };
 		15C4384E2877751A000F386F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 15C4384C2877751A000F386F /* LaunchScreen.storyboard */; };
+		15C4385628777546000F386F /* CurrencyData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15C4385528777546000F386F /* CurrencyData.swift */; };
+		15C4385828777563000F386F /* ExchangeRates.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15C4385728777563000F386F /* ExchangeRates.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		15C4384A2877751A000F386F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		15C4384D2877751A000F386F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		15C4384F2877751A000F386F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		15C4385528777546000F386F /* CurrencyData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrencyData.swift; sourceTree = "<group>"; };
+		15C4385728777563000F386F /* ExchangeRates.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExchangeRates.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				15C4384128777516000F386F /* AppDelegate.swift */,
 				15C4384328777516000F386F /* SceneDelegate.swift */,
 				15C4384528777516000F386F /* ViewController.swift */,
+				15C4385528777546000F386F /* CurrencyData.swift */,
+				15C4385728777563000F386F /* ExchangeRates.swift */,
 				15C4384728777516000F386F /* Main.storyboard */,
 				15C4384A2877751A000F386F /* Assets.xcassets */,
 				15C4384C2877751A000F386F /* LaunchScreen.storyboard */,
@@ -140,6 +146,8 @@
 			files = (
 				15C4384628777516000F386F /* ViewController.swift in Sources */,
 				15C4384228777516000F386F /* AppDelegate.swift in Sources */,
+				15C4385628777546000F386F /* CurrencyData.swift in Sources */,
+				15C4385828777563000F386F /* ExchangeRates.swift in Sources */,
 				15C4384428777516000F386F /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
